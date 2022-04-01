@@ -16,3 +16,9 @@ if you wanna add something, you can add different things in albumentations libra
         A.HorizontalFlip(p=0.8),
         A.RandomBrightnessContrast(p=0.8)
         ])
+
+file structure
+ex) example.txt
+    ->  0 x1 y1 x2 y2
+    ->  0 x1 y1 x2 y2...
+![image](https://user-images.githubusercontent.com/70372577/161204367-0f2e7d4b-b2fb-4369-8c30-2bacd59e725e.png)
