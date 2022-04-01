@@ -9,7 +9,7 @@ WIDERFace Dataset
 
 ![image](https://user-images.githubusercontent.com/70372577/161203301-636b37b5-f822-4b3e-969b-0ec634a2f2aa.png)
 
-if you wanna add something, you can add diffrent things in albumentations library
+if you wanna add something, you can add different things in albumentations library
 
     transform = A.Compose([
         A.RandomCrop(width=round(width*0.8),height=round(height*0.8),p=0.5),
