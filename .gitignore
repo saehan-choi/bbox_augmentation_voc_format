@@ -1,0 +1,5 @@
+train/
+augmentation/
+__pycache__/
+wider_train
+*.txt
