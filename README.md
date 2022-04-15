@@ -25,3 +25,4 @@ ex) example.txt
     ->  0 x1 y1 x2 y2
     ->  0 x1 y1 x2 y2...
 
+this work not good to learnning network yet.
